@@ -1,11 +1,29 @@
-# T3A2-A - Full Stack App (Part A)
+# T3A2-A - Full Stack App (Part A) - Larry's Lawncare
 
-Description of your website, including:
-- Purpose
-- Functionality / features
-- Target audience
-- Tech stack
+### Purpose
+When it comes to a small lawn care business, the business owner may not have the capacity to hire a dedicated administrator to oversee the bookings.  
+  
+As the business owner will regularly be out on the road completing existing bookings, they may not be able to take calls for new bookings. The Larry's Lawncare website bridges the gap to allow a customer the self service option to make a booking online for a requested date and then allows the business to log in and manage these bookings with full CRUD operations (create/view/update and delete bookings).
 
+The services page allows for a customer to see if Larry's Lawncare offers the services they need and then allows them the option to book the service, alleviating the need for follow up phone calls for any missed calls. It also allows the customer to make the booking at a time that is most convenient for them, not necessarily in business hours.
+
+### Functionality / Features
+* Business Owner Login
+* Booking request form
+* Contact Us page
+* CRUD functionality for bookings
+* Reschedule option for recurring bookings i.e 
+* Services list
+
+### Target audience
+Larry's Lawncare website is aimed at people who are needing assistance with cleaning up or maintaining their lawn and would like the ease of being able to book online hassle free.
+
+### Tech stack
+* React
+* JavaScript
+* Rails API
+* PostgreSQL
+* Git
 
 ### Dataflow Diagram
 
