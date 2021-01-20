@@ -43,6 +43,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * As a business owner, I want my customers to have the ability to make their own booking online and select their service type so that I have their details recorded in the database and so they can make the booking at any time
 * As a business owner, I want to ensure that only the areas which are serviceable can be booked so the business does not receive a booking for a location which is not serviced
 * As a business owner, I want to be able to retrieve a list of bookings for a specified day so that I can see what jobs I have for that day and plan my day accordingly
+* As a user, I want to access a website with a responsive layout so I can easily use the website on a number of devices
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
 
