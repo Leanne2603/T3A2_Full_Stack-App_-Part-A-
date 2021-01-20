@@ -30,7 +30,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 
 
 ### Application Architecture Diagram
-
+![Application Architecture Diagram](/docs/AppArchitectureDiagram.png)
 
 
 ### User Stories
