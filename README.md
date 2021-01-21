@@ -12,7 +12,7 @@ The services page allows for a customer to see if Larry's Lawncare offers the se
 * Booking request form
 * Contact Us page
 * CRUD functionality for bookings
-* Reschedule option for recurring bookings i.e 
+* Reschedule option for recurring bookings 
 * Services list
 
 ### Target audience
@@ -58,7 +58,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 ![Application Architecture Diagram](/docs/AppArchitectureDiagram.png)
 
 
-### User Stories
+#### User Stories
 
 ## Persona
 * **Business Owner:**
@@ -66,7 +66,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * **Customer:** 
     Larry has received feedback from a couple of his current customers on how he can improve his services:
     * Carole is a night shift worker and struggles to make bookings during business hours, therefore; it is convenient for Carole to make bookings online during her breaks. Carole also likes to know an estimate as to what the cost of the service will be and sometimes waiting for a quote can take some time, therefore; she is more likely to book through a business where she can get a cost up front. Carole does not have a desktop computer or tablet, therefore; she needs a mobile friendly website in order to make a booking.
-    * Daisy is an elderly customer of Larry's. She does have access to a desktop computer and can usethe internet, however; she is not the best at technology so she needs a simple and easy to use website which does not require too much effort to navigate.
+    * Daisy is an elderly customer of Larry's. She does have access to a desktop computer and can use the internet, however; she is not the best at technology so she needs a simple and easy to use website which does not require too much effort to navigate.
 
 
 **User Stories**
