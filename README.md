@@ -83,7 +83,16 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * As a user, I want to access a website with a responsive layout so I can easily use the website on a number of devices
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
-
+![Wireframe changes](/docs/changes.png)
+1. Client requested a search bar to be added on the view all bookings page.
+2. The submit button for the booking form had been omitted on the booking page.
+3. The login button had been omitted on the Admin login page.
+4. Client requested a section for testimonials be added. The image on the services page was replaced with a scrolling testimonials section.
+5. Client requested social media icons be added to the contact page.
+6. Client stated that the view all bookings page for tablet was too crowded. Font size was reduced to allow for more white space.
 
 
 ### Screenshots of Trello board throughout the duration of the project
+![Day 1](/docs/Trello1.png)<br>
+![Day 2](/docs/Trello2.png)<br>
+![Day 3](/docs/Trello3.png)<br>
