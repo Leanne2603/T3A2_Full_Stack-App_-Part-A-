@@ -19,11 +19,35 @@ The services page allows for a customer to see if Larry's Lawncare offers the se
 Larry's Lawncare website is aimed at people who are needing assistance with cleaning up or maintaining their lawn and would like the ease of being able to book online hassle free.
 
 ### Tech stack
-* React
-* JavaScript
-* Rails API
-* PostgreSQL
+
+**Design & Planning**
+* Trello
+* Lucid Chart
+* Adobe XD
+* Indesign
+
+**Source Control**
 * Git
+* Github (Hosting repository)
+
+**Frontend**
+* HTML
+* CSS
+* JavaScript
+* React JS
+
+**Backend**
+* Rails API
+
+**Database**
+* PostgreSQL
+
+**Deployment**
+* Frontend - Netlify
+* Backend - Heroku
+
+**Testing**
+* TBA
 
 ### Dataflow Diagram
 
