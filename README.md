@@ -83,6 +83,45 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * As a user, I want to access a website with a responsive layout so I can easily use the website on a number of devices
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
+![Desktop about/landing page](/docs/desktop1.png)<br>
+![Desktop services page](/docs/desktop2.png)<br>
+![Desktop booking page](/docs/desktop3.png)<br>
+![Desktop contact page](/docs/desktop4.png)<br>
+![Desktop admin login page](/docs/desktop5.png)<br>
+![Desktop admin view all page](/docs/desktop6.png)<br>
+![Desktop admin view booking page](/docs/desktop7.png)<br>
+![Desktop new booking page](/docs/desktop8.png)<br>
+![Desktop edit booking page](/docs/desktop9.png)<br>
+![Desktop admin delete confirmation alert page](/docs/desktop10.png)
+
+
+![Tablet about/landing page](/docs/tablet1.png)<br>
+![Tablet services page](/docs/tablet2.png)<br>
+![Tablet booking page](/docs/tablet3.png)<br>
+![Tablet contact page](/docs/tablet4.png)<br>
+![Tablet admin login page](/docs/tablet5.png)<br>
+![Tablet admin view all page](/docs/tablet6.png)<br>
+![Tablet admin view booking page](/docs/tablet7.png)<br>
+![Tablet new booking page](/docs/tablet8.png)<br>
+![Tablet edit booking page](/docs/tablet9.png)<br>
+![Tablet admin delete confirmation alert page](/docs/tablet10.png)
+
+
+![Mobile about/landing page](/docs/mobile1.png)<br>
+![Mobile services page](/docs/mobile2.png)<br>
+![Mobile booking page](/docs/mobile3.png)<br>
+![Mobile contact page](/docs/mobile4.png)<br>
+![Mobile admin login page](/docs/mobile5.png)<br>
+![Mobile admin view all page](/docs/mobile6.png)<br>
+![Mobile admin view booking page](/docs/mobile7.png)<br>
+![Mobile new booking page](/docs/mobile8.png)<br>
+![Mobile edit booking page](/docs/mobile9.png)<br>
+![Mobile admin delete confirmation alert page](/docs/mobile10.png)
+
+#### Site walkthrough
+![Relationships between screens](/docs/relationships.png)
+
+#### Client changes
 ![Wireframe changes](/docs/changes.png)
 1. Client requested a search bar to be added on the view all bookings page.
 2. The submit button for the booking form had been omitted on the booking page.
