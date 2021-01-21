@@ -51,6 +51,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * Postman
 
 ### Dataflow Diagram
+![Dataflow Diagram](/docs/DataFlowDiagram.jpeg)
 
 
 
