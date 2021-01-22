@@ -1,5 +1,18 @@
 # T3A2-A - Full Stack App (Part A) - Larry's Lawncare
 
+### Github Repository for Frontend
+
+
+### GitHub Repository for Backend (Rails API)
+
+
+### Deployed Frontend Application URL
+
+
+### Deployed Backend Application URL
+
+
+
 ### Purpose
 When it comes to a small lawn care business, the business owner may not have the capacity to hire a dedicated administrator to oversee the bookings.  
   
@@ -63,7 +76,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 
 ## Persona
 * **Business Owner:**
-    * Larry is a sole trader who is managing his own lawn care business which includes managing all the bookings bookings. Due to an increase in bookings, Larry is wanting to enlist in a secure online booking system to help him manage both existing and incoming bookings. Larry is not technically savvy, therefore; he needs a booking system which is easy to use which also allows him to retrieve the bookings for a specific day. As Larry is a small business, he only services the Brisbane metro area so he does not want a customer to book outside of the areas he services. As Larry is a mobile business, he needs a website that is easy to access on a mobile or tablet. Larry currently posts his work on social media platforms such as Facebook and Instagram so he would like customers to be able to access these websites from his website.
+    * Larry is a sole trader who is managing his own lawn care business which includes managing all the bookings. Due to an increase in bookings, Larry is wanting to enlist in a secure online booking system to help him manage both existing and incoming bookings. Larry is not technically savvy, therefore; he needs a booking system which is easy to use which also allows him to retrieve the bookings for a specific day and which allows him to reschedule recurring bookings. As Larry is a small business, he only services the Brisbane metro area so he does not want a customer to book outside of the areas he services. As Larry is a mobile business, he needs a website that is easy to access on a mobile or tablet. Larry currently posts his work on social media platforms such as Facebook and Instagram so he would like customers to be able to access these websites from his business website.
 * **Customer:** 
     Larry has received feedback from a couple of his current customers on how he can improve his services:
     * Carole is a night shift worker and struggles to make bookings during business hours, therefore; it is convenient for Carole to make bookings online during her breaks. Carole also likes to know an estimate as to what the cost of the service will be and sometimes waiting for a quote can take some time, therefore; she is more likely to book through a business where she can get a cost up front. Carole does not have a desktop computer or tablet, therefore; she needs a mobile friendly website in order to make a booking.
@@ -96,3 +109,9 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 ![Day 1](/docs/Trello1.png)<br>
 ![Day 2](/docs/Trello2.png)<br>
 ![Day 3](/docs/Trello3.png)<br>
+
+
+
+### ERD Diagram for Database Structure
+
+![ERD](./docs/ERD.PNG)
