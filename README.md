@@ -74,15 +74,6 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 
 #### User Stories
 
-## Persona
-* **Business Owner:**
-    * Larry is a sole trader who is managing his own lawn care business which includes managing all the bookings. Due to an increase in bookings, Larry is wanting to enlist in a secure online booking system to help him manage both existing and incoming bookings. Larry is not technically savvy, therefore; he needs a booking system which is easy to use which also allows him to retrieve the bookings for a specific day and which allows him to reschedule recurring bookings. As Larry is a small business, he only services the Brisbane metro area so he does not want a customer to book outside of the areas he services. As Larry is a mobile business, he needs a website that is easy to access on a mobile or tablet. Larry currently posts his work on social media platforms such as Facebook and Instagram so he would like customers to be able to access these websites from his business website.
-* **Customer:** 
-    Larry has received feedback from a couple of his current customers on how he can improve his services:
-    * Carole is a night shift worker and struggles to make bookings during business hours, therefore; it is convenient for Carole to make bookings online during her breaks. Carole also likes to know an estimate as to what the cost of the service will be and sometimes waiting for a quote can take some time, therefore; she is more likely to book through a business where she can get a cost up front. Carole does not have a desktop computer or tablet, therefore; she needs a mobile friendly website in order to make a booking.
-    * Daisy is an elderly customer of Larry's. She does have access to a desktop computer and can use the internet, however; she is not the best at technology so she needs a simple and easy to use website which does not require too much effort to navigate.
-
-
 **User Stories**
 * As a customer, I want to be able to complete a booking form so that I can make a booking for a lawn service
 * As a customer, I want to be able to contact the company so that I can confirm/cancel my appointment
@@ -93,6 +84,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * As a business owner, I want my customers to have the ability to make their own booking online and select their service type so that I have their details recorded in the database and so they can make the booking at any time
 * As a business owner, I want to ensure that only the areas which are serviceable can be booked so the business does not receive a booking for a location which is not serviced
 * As a business owner, I want to be able to retrieve a list of bookings for a specified day so that I can see what jobs I have for that day and plan my day accordingly
+* As a business owner, I want to be able to update my services list so that my prices and services are up to date
 * As a user, I want to access a website with a responsive layout so I can easily use the website on a number of devices
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
@@ -142,6 +134,20 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 4. Client requested a section for testimonials be added. The image on the services page was replaced with a scrolling testimonials section.
 5. Client requested social media icons be added to the contact page.
 6. Client stated that the view all bookings page for tablet was too crowded. Font size was reduced to allow for more white space.
+
+### Project Management Implementation
+For this project, the Agile methodology was implemented. The management tool which we used to document the tasks was Trello.  
+The initial step was to have a brief on the first steps of planning and delegating. User Stories, Wireframes, Dataflow Diagram and the Application Architecture Diagram were the initial priorities.
+
+The tasks were broken up into 4 different colour coded statuses to simplify the workflow:
+1. To do (work which has not yet been started)
+2. In progress (work which is actively being worked on)
+3. Completed (work which has been deemed as done)
+4. On hold/issues (any work which has been started on, however; is unable to progress any further due to awaiting feedback/assistance)
+
+To ensure that the whole team was across the application requirements, all planning/features and functionality were added to the above 4 statuses and the user stories were given an initial not implemented status on Trello and once a functionality has been completed that met the user story, it would be updated to implemented status.
+
+Each morning, the team will have a brief catch up to discuss what they have worked on, what they will be working on and what needs to be worked on next. 
 
 
 ### Screenshots of Trello board throughout the duration of the project
