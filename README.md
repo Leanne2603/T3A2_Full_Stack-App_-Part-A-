@@ -136,8 +136,8 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 
 #### Client changes
 ![Wireframe changes](/docs/changes.png)
-1. Client requested a search bar to be added on the view all bookings page.
-2. Client requested the time field be removed from the form on the booking page as they cannot guarantee appointment times. The submit button for the booking form had been omitted.
+1. Client requested a search bar to be added on the view all bookings page. Client requested the time column be removed as they cannot guarantee appointment times.
+2. Client requested the time field be removed from the form on the booking page. The submit button for the booking form had been omitted.
 3. The login button had been omitted on the Admin login page.
 4. Client requested a section for testimonials be added. The image on the services page was replaced with a scrolling testimonials section.
 5. Client requested social media icons be added to the contact page.
