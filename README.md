@@ -154,12 +154,20 @@ Each morning, the team will have a brief catch up to discuss what they have work
 
 
 ### Screenshots of Trello board throughout the duration of the project
+<<<<<<< HEAD
 
 Link to Trello Board: https://trello.com/b/uraS52xC/t3a2-react-app  
 
 ![Day 1](/docs/Trello1.png)<br>
 ![Day 2](/docs/Trello2.png)<br>
 ![Day 3](/docs/Trello3.png)<br>
+=======
+![Day 1](/docs/Trello1.png)
+![Day 2](/docs/Trello2.png)
+![Day 3](/docs/Trello3.png)
+![Day 4](/docs/Trello4.png)
+![Day 5](/docs/Trello5.png)
+>>>>>>> 5a412befcca0bb6dd1c8f061dbcc42890b6dde83
 
 
 
