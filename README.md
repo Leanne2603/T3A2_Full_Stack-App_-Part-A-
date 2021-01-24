@@ -76,16 +76,19 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 
 **User Stories**
 * As a customer, I want to be able to complete a booking form so that I can make a booking for a lawn service
+    * Revised: Add autocomplete option onto address fields so that customer has a faster and more simplified booking experience
 * As a customer, I want to be able to contact the company so that I can confirm/cancel my appointment
 * As a prospective customer, I want to be able to view a service list so that I can see prices and check that the business caters to my lawn requirements
 * As a prospective customer, I want to be able to view examples of the business' work so that I can see the quality of their work and choose whether I book with them
+    * Revised: Testimonials added to services page so that customers can read about quality of work. Links to social media platforms also added.
 * As a business owner, I want to have a user friendly website so that my existing and potential new clients can make a booking and contact the business easily
 * As a business owner, I want to be able to securely log on to the website so that I can view and manage (create/update/delete) my clients bookings accordingly
+    * Revised: Also to update services offered along with their pricing so any price changes can be managed accordingly.
 * As a business owner, I want my customers to have the ability to make their own booking online and select their service type so that I have their details recorded in the database and so they can make the booking at any time
 * As a business owner, I want to ensure that only the areas which are serviceable can be booked so the business does not receive a booking for a location which is not serviced
 * As a business owner, I want to be able to retrieve a list of bookings for a specified day so that I can see what jobs I have for that day and plan my day accordingly
 * As a business owner, I want to be able to update my services list so that my prices and services are up to date
-* As a user, I want to access a website with a responsive layout so I can easily use the website on a number of devices
+* Added: As a user, I want to access a website with a responsive layout so I can easily use the website on a number of devices
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
 ![Desktop about/landing page](/docs/desktop1.png)<br>
@@ -151,6 +154,9 @@ Each morning, the team will have a brief catch up to discuss what they have work
 
 
 ### Screenshots of Trello board throughout the duration of the project
+
+Link to Trello Board: https://trello.com/b/uraS52xC/t3a2-react-app  
+
 ![Day 1](/docs/Trello1.png)<br>
 ![Day 2](/docs/Trello2.png)<br>
 ![Day 3](/docs/Trello3.png)<br>
