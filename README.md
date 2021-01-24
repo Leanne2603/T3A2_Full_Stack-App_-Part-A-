@@ -1,18 +1,5 @@
 # T3A2-A - Full Stack App (Part A) - Larry's Lawncare
 
-### Github Repository for Frontend
-
-
-### GitHub Repository for Backend (Rails API)
-
-
-### Deployed Frontend Application URL
-
-
-### Deployed Backend Application URL
-
-
-
 ### Purpose
 When it comes to a small lawn care business, the business owner may not have the capacity to hire a dedicated administrator to oversee the bookings.  
   
