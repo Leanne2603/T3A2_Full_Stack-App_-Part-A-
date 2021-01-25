@@ -88,7 +88,10 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 ![Desktop admin view booking page](./docs/desktop7.png)<br>
 ![Desktop new booking page](./docs/desktop8.png)<br>
 ![Desktop edit booking page](./docs/desktop9.png)<br>
-![Desktop admin delete confirmation alert page](./docs/desktop10.png)
+![Desktop admin delete confirmation alert](./docs/desktop10.png)
+![Desktop admin view services page](./docs/desktop11.png)
+![Desktop admin new service page](./docs/desktop12.png)
+![Desktop admin edit service page](./docs/desktop13.png)
 
 
 ![Tablet about/landing page](./docs/tablet1.png)<br>
@@ -100,7 +103,10 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 ![Tablet admin view booking page](./docs/tablet7.png)<br>
 ![Tablet new booking page](./docs/tablet8.png)<br>
 ![Tablet edit booking page](./docs/tablet9.png)<br>
-![Tablet admin delete confirmation alert page](./docs/tablet10.png)
+![Tablet admin delete confirmation alert](./docs/tablet10.png)
+![Tablet admin view services page](./docs/tablet11.png)
+![Tablet admin new service page](./docs/tablet12.png)
+![Tablet admin edit service page](./docs/tablet13.png)
 
 
 ![Mobile about/landing page](./docs/mobile1.png)<br>
@@ -112,7 +118,10 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 ![Mobile admin view booking page](./docs/mobile7.png)<br>
 ![Mobile new booking page](./docs/mobile8.png)<br>
 ![Mobile edit booking page](./docs/mobile9.png)<br>
-![Mobile admin delete confirmation alert page](./docs/mobile10.png)
+![Mobile admin delete confirmation alert](./docs/mobile10.png)
+![Mobile admin view services page](./docs/mobile11.png)
+![Mobile admin new service page](./docs/mobile12.png)
+![Mobile admin edit service page](./docs/mobile13.png)
 
 #### Site walkthrough
 ![Relationships between screens](./docs/relationships.png)
