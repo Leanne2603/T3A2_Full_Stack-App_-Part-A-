@@ -51,12 +51,12 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * Postman
 
 ### Dataflow Diagram
-![Dataflow Diagram](/docs/DataFlowDiagram.jpeg)
+![Dataflow Diagram](./docs/DataFlowDiagram.jpeg)
 
 
 
 ### Application Architecture Diagram
-![Application Architecture Diagram](/docs/AppArchitectureDiagram.png)
+![Application Architecture Diagram](./docs/AppArchitectureDiagram.png)
 
 
 #### User Stories
@@ -64,6 +64,7 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 **User Stories**
 * As a customer, I want to be able to complete a booking form so that I can make a booking for a lawn service
     * Revised: Add autocomplete option onto address fields so that customer has a faster and more simplified booking experience
+    * Revised edit: Autocomplete option a 'nice to have' feature - will implement if all other features work as expected.
 * As a customer, I want to be able to contact the company so that I can confirm/cancel my appointment
 * As a prospective customer, I want to be able to view a service list so that I can see prices and check that the business caters to my lawn requirements
 * As a prospective customer, I want to be able to view examples of the business' work so that I can see the quality of their work and choose whether I book with them
@@ -78,46 +79,46 @@ Larry's Lawncare website is aimed at people who are needing assistance with clea
 * Added: As a user, I want to access a website with a responsive layout so I can easily use the website on a number of devices
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
-![Desktop about/landing page](/docs/desktop1.png)<br>
-![Desktop services page](/docs/desktop2.png)<br>
-![Desktop booking page](/docs/desktop3.png)<br>
-![Desktop contact page](/docs/desktop4.png)<br>
-![Desktop admin login page](/docs/desktop5.png)<br>
-![Desktop admin view all page](/docs/desktop6.png)<br>
-![Desktop admin view booking page](/docs/desktop7.png)<br>
-![Desktop new booking page](/docs/desktop8.png)<br>
-![Desktop edit booking page](/docs/desktop9.png)<br>
-![Desktop admin delete confirmation alert page](/docs/desktop10.png)
+![Desktop about/landing page](./docs/desktop1.png)<br>
+![Desktop services page](./docs/desktop2.png)<br>
+![Desktop booking page](./docs/desktop3.png)<br>
+![Desktop contact page](./docs/desktop4.png)<br>
+![Desktop admin login page](./docs/desktop5.png)<br>
+![Desktop admin view all page](./docs/desktop6.png)<br>
+![Desktop admin view booking page](./docs/desktop7.png)<br>
+![Desktop new booking page](./docs/desktop8.png)<br>
+![Desktop edit booking page](./docs/desktop9.png)<br>
+![Desktop admin delete confirmation alert page](./docs/desktop10.png)
 
 
-![Tablet about/landing page](/docs/tablet1.png)<br>
-![Tablet services page](/docs/tablet2.png)<br>
-![Tablet booking page](/docs/tablet3.png)<br>
-![Tablet contact page](/docs/tablet4.png)<br>
-![Tablet admin login page](/docs/tablet5.png)<br>
-![Tablet admin view all page](/docs/tablet6.png)<br>
-![Tablet admin view booking page](/docs/tablet7.png)<br>
-![Tablet new booking page](/docs/tablet8.png)<br>
-![Tablet edit booking page](/docs/tablet9.png)<br>
-![Tablet admin delete confirmation alert page](/docs/tablet10.png)
+![Tablet about/landing page](./docs/tablet1.png)<br>
+![Tablet services page](./docs/tablet2.png)<br>
+![Tablet booking page](./docs/tablet3.png)<br>
+![Tablet contact page](./docs/tablet4.png)<br>
+![Tablet admin login page](./docs/tablet5.png)<br>
+![Tablet admin view all page](./docs/tablet6.png)<br>
+![Tablet admin view booking page](./docs/tablet7.png)<br>
+![Tablet new booking page](./docs/tablet8.png)<br>
+![Tablet edit booking page](./docs/tablet9.png)<br>
+![Tablet admin delete confirmation alert page](./docs/tablet10.png)
 
 
-![Mobile about/landing page](/docs/mobile1.png)<br>
-![Mobile services page](/docs/mobile2.png)<br>
-![Mobile booking page](/docs/mobile3.png)<br>
-![Mobile contact page](/docs/mobile4.png)<br>
-![Mobile admin login page](/docs/mobile5.png)<br>
-![Mobile admin view all page](/docs/mobile6.png)<br>
-![Mobile admin view booking page](/docs/mobile7.png)<br>
-![Mobile new booking page](/docs/mobile8.png)<br>
-![Mobile edit booking page](/docs/mobile9.png)<br>
-![Mobile admin delete confirmation alert page](/docs/mobile10.png)
+![Mobile about/landing page](./docs/mobile1.png)<br>
+![Mobile services page](./docs/mobile2.png)<br>
+![Mobile booking page](./docs/mobile3.png)<br>
+![Mobile contact page](./docs/mobile4.png)<br>
+![Mobile admin login page](./docs/mobile5.png)<br>
+![Mobile admin view all page](./docs/mobile6.png)<br>
+![Mobile admin view booking page](./docs/mobile7.png)<br>
+![Mobile new booking page](./docs/mobile8.png)<br>
+![Mobile edit booking page](./docs/mobile9.png)<br>
+![Mobile admin delete confirmation alert page](./docs/mobile10.png)
 
 #### Site walkthrough
-![Relationships between screens](/docs/relationships.png)
+![Relationships between screens](./docs/relationships.png)
 
 #### Client changes
-![Wireframe changes](/docs/changes.png)
+![Wireframe changes](./docs/changes.png)
 1. Client requested a search bar to be added on the view all bookings page. Client requested the time column be removed as they cannot guarantee appointment times.
 2. Client requested the time field be removed from the form on the booking page. The submit button for the booking form had been omitted.
 3. The login button had been omitted on the Admin login page.
@@ -143,11 +144,11 @@ Each morning, the team will have a brief catch up to discuss what they have work
 ### Screenshots of Trello board throughout the duration of the project
 Link to Trello: https://trello.com/b/uraS52xC/t3a2-react-app
 
-![Day 1](/docs/Trello1.png)
-![Day 2](/docs/Trello2.png)
-![Day 3](/docs/Trello3.png)
-![Day 4](/docs/Trello4.png)
-![Day 5](/docs/Trello5.png)
+![Day 1](./docs/Trello1.png)
+![Day 2](./docs/Trello2.png)
+![Day 3](./docs/Trello3.png)
+![Day 4](./docs/Trello4.png)
+![Day 5](./docs/Trello5.png)
 
 
 ### ERD Diagram for Database Structure
