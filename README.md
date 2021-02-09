@@ -158,6 +158,15 @@ Link to Trello: https://trello.com/b/uraS52xC/t3a2-react-app
 ![Day 3](./docs/Trello3.png)
 ![Day 4](./docs/Trello4.png)
 ![Day 5](./docs/Trello5.png)
+![Day 6](./docs/Trello6.png)
+![Day 7](./docs/Trello7.png)
+![Day 8](./docs/Trello8.png)
+![Day 9](./docs/Trello9.png)
+![Day 10](./docs/Trello10.png)
+![Day 11](./docs/Trello11.png)
+![Day 12](./docs/Trello12.png)
+![Day 13](./docs/Trello13.png)
+![Day 14](./docs/Trello14.png)
 
 
 ### ERD Diagram for Database Structure
